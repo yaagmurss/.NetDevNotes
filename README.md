@@ -1,5 +1,9 @@
------
-# .Net
+-----------
+
+
+# .NET NOTES
+
+***.Net***
 .Net Notes 
 
 - 1\. Asp.Net
@@ -9,12 +13,12 @@
 
 - 2\. CSharp
 
-# Clean Code
+***Clean Code***
 CleanCode Notes 
 
 - 1\. CleanCode
 
-# Data Structure And Algorithms Workspace
+***Data Structure And Algorithms***
  Data Structure And Algorithms Notes 
  
 - 1\. Inroduction
@@ -23,13 +27,13 @@ CleanCode Notes
 
 - 2\. LinkedList
 
-# Git
+***Git***
 Git Notes 
 
 - 1\. Git
 
 
-# Object Oriented Programing
+***Object Oriented Programing***
 Object Oriented Programing Notes
 
 - 1\. Inroduction
@@ -53,7 +57,7 @@ Object Oriented Programing Notes
     - 1.1. Polymorphism
     - 1.2. MethodOverriding
 
-# SQL
+***SQL***
 SQL Notes
 
 - 1\. Inroduction
