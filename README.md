@@ -64,6 +64,6 @@
     - 1.1. DateTypesAndFunctions
     - 1.2. NumberDataTypes
     - 1.3. QueryingPartOfTable
-    - 1.4. StringOperations
+    - 1.4. StringOperation
 
 
