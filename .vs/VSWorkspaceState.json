@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\.Net",
+    "\\.Net\\2. CSharp"
   ],
-  "SelectedNode": "\\C:\\Users\\200741\\Source\\Repos\\.NetDevNotes",
+  "SelectedNode": "\\.Net\\2. CSharp\\2. VariablesAndConstants.md",
   "PreviewInSolutionExplorer": false
 }
